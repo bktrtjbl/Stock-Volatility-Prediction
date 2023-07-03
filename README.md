@@ -1,1 +1,1 @@
-# StockVolatilityAnalysis
+# StockVolatilityPrediction
